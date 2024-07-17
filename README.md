@@ -17,4 +17,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 **Limitation of Liability**: In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 
-For more details, please refer to the [LICENSE](LICENSE) file.
